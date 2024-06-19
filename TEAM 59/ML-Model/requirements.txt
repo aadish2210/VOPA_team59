@@ -1,0 +1,8 @@
+Flask==2.3.2
+Flask-CORS==3.0.10
+whisper==1.0
+pandas==2.0.3
+nltk==3.8.1
+gTTS==2.3.2
+spacy==3.5.0
+scikit-learn==1.2.2
